@@ -20,8 +20,8 @@ def paste():
 
 
 window = Tk()
-openImage = PhotoImage(file="load.png")
-saveImage = PhotoImage(file="load.png")
+openImage = PhotoImage(file="images/load.png")
+saveImage = PhotoImage(file="images/load.png")
 menubar = Menu(window)
 window.config(menu=menubar)
 
